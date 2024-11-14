@@ -75,6 +75,15 @@ import cross_icon from "./cross_icon.png";
 import thrift_era from "./thrift_era.png";
 import thriftData from "./thrift.jpg";
 import homeImg from "./homeimg.png";
+import Im1 from "./Im1.webp";
+import Im2 from "./Im2.webp";
+import Im3 from "./Im3.webp";
+import Im4 from "./Im4.webp";
+import Im5 from "./Im5.webp";
+import Img1 from "./Img1.jpg";
+import Img2 from "./Img2.jpg";
+import Img3 from "./Img3.jpg";
+import Img4 from "./Img4.jpg";
 
 export const assets = {
   logo,
@@ -98,6 +107,15 @@ export const assets = {
   thrift_era,
   thriftData,
   homeImg,
+  Im1,
+  Im2,
+  Im3,
+  Im4,
+  Im5,
+  Img1,
+  Img2,
+  Img3,
+  Img4,
 };
 
 export const products = [
