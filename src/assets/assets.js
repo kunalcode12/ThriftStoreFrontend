@@ -74,6 +74,7 @@ import stripe_logo from "./stripe_logo.png";
 import cross_icon from "./cross_icon.png";
 import thrift_era from "./thrift_era.png";
 import thriftData from "./thrift.jpg";
+import homeImg from "./homeimg.png";
 
 export const assets = {
   logo,
@@ -96,6 +97,7 @@ export const assets = {
   cross_icon,
   thrift_era,
   thriftData,
+  homeImg,
 };
 
 export const products = [
