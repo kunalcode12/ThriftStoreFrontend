@@ -22,7 +22,7 @@ const Contact = () => {
             Shastri Park DDA FLATS near buland masjid <br /> Delhi, INDIA
           </p>
           <p className=" text-gray-500">
-            Tel:+91-9818366805 <br /> Email: adnankhan202003@gmail.com
+            Tel:+91-9818366805 <br /> Email: thriftstore112211@gmail.com
           </p>
           {/* <p className='font-semibold text-xl text-gray-600'>Careers at Forever</p>
           <p className=' text-gray-500'>Learn more about our teams and job openings.</p> */}

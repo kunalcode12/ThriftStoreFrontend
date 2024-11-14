@@ -40,8 +40,7 @@ const instagramImages = [
 ];
 
 export default function ThriftersInstagram() {
-  const instagramLink =
-    "https://www.instagram.com/thrift.era/profilecard/?igsh=MTY1M2hlb2x1OHp6eg==";
+  const instagramLink = "https://www.instagram.com/_thrift.era_";
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -82,7 +81,7 @@ export default function ThriftersInstagram() {
           rel="noopener noreferrer"
         >
           <span className="border-b-2 border-yellow-400">
-            Find us @thrift_plus_uk
+            Find us @_thrift.era_
           </span>
           <svg
             xmlns="http://www.w3.org/2000/svg"
